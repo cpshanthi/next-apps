@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create-next-app": "^15.0.1",
+    "express": "^4.21.1",
+    "next": "^15.0.1"
+  }
+}
